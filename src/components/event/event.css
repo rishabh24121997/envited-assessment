@@ -1,0 +1,60 @@
+.event-image img {
+    width: 100%;
+    height: 50%;
+}
+
+.birthday-details {
+    padding: 5%;
+}
+
+.event-name {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 32px;
+
+    color: #240D57;
+}
+
+.event-host {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #828282;
+}
+
+.event-detail {
+    display: flex;
+    margin-top: 1rem;
+}
+
+.event-detail-image {
+    width: 1.25rem;
+    height: 2.5rem;
+}
+
+.text {
+    margin-left: 1rem;
+}
+
+.top {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 18px;
+    color: #240D57;
+}
+
+.bottom {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #4F4F4F;
+}

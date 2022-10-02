@@ -1,0 +1,77 @@
+.heading-text {
+   margin-top: 3rem;
+}
+
+.heading-text p {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 36px;
+    text-align: center;
+    color: #240D57;
+}
+
+.heading-text p span {
+    background: linear-gradient(90deg, #8456EC 24.2%, #E87BF8 120.46%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+.heading-sub-text {
+    margin: 0 1.5rem 0 1.5rem;
+}
+
+.heading-sub-text p {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 18px;
+    text-align: center;
+    color: #4F4F4F;
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.landing-page-img {
+    margin-top: 1.5rem;
+}
+
+.landing-image {
+    width: 10.352rem;
+    height: 18.25rem;
+}
+
+.create-event-button {
+    margin-top: 1rem;
+}
+
+.create-event-button button {
+    height: 3.125rem;
+    width: 11.688rem;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 16px;
+    gap: 10px;
+
+    background: linear-gradient(90deg, #8456EC 3.25%, #E87BF8 100%);
+    border-radius: 10px;
+    border-color: #F6F2FF;
+}
+
+.create-event-button button span {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
